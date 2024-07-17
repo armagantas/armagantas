@@ -2,7 +2,7 @@
 
 I am Full Stack Developer.
 
-- 🔭 I’m currently working on React & .NET
+- 🔭 I’m currently working on Java & Golang
 - 🌱 I’m currently learning full stack technologies.
 
 - 📫 How to reach me: armagantas6@gmail.com
